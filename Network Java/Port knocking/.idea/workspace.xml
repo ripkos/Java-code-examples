@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9d1895a-89f3-4353-94c7-42819baf3290" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nnWoAhljSY9XXg7uaLu0abm5XU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager" selected="Application.server">
+    <configuration name="client" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client" />
+      <module name="SKJ_KNOCK" />
+      <option name="PROGRAM_PARAMETERS" value="127.0.0.1 40 6000 6001 6002 6003 6002 50" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="secondClient" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="client" />
+      <module name="SKJ_KNOCK" />
+      <option name="PROGRAM_PARAMETERS" value="127.0.0.1 40 6000 6001 6002 6003 6002 50" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server" />
+      <module name="SKJ_KNOCK" />
+      <option name="PROGRAM_PARAMETERS" value="6001 6002 6003 6002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wrongClient" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="client" />
+      <module name="SKJ_KNOCK" />
+      <option name="PROGRAM_PARAMETERS" value="127.0.0.1 6000 6000 6002 6003 6002 50" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.client" />
+      <item itemvalue="Application.secondClient" />
+      <item itemvalue="Application.wrongClient" />
+      <item itemvalue="Application.server" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9d1895a-89f3-4353-94c7-42819baf3290" name="Default Changelist" comment="" />
+      <created>1612026507268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612026507268</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="222" key="#client" timestamp="1612049272597">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="880" y="222" key="#client/0.0.2560.1400@0.0.2560.1400" timestamp="1612049272597" />
+    <state x="736" y="329" width="1128" height="816" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612058521352">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="329" width="1128" height="816" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1612058521352" />
+    <state x="360" y="278" key="#com.intellij.ide.util.MemberChooser" timestamp="1612038620302">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="360" y="278" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1612038620302" />
+    <state x="880" y="222" key="#server" timestamp="1612049248985">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="880" y="222" key="#server/0.0.2560.1400@0.0.2560.1400" timestamp="1612049248985" />
+    <state x="961" y="339" key="FileChooserDialogImpl" timestamp="1612132727003">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="961" y="339" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1612132727003" />
+    <state width="2494" height="397" key="GridCell.Tab.0.bottom" timestamp="1612133001908">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612133001908" />
+    <state width="2494" height="397" key="GridCell.Tab.0.center" timestamp="1612133001908">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="397" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612133001908" />
+    <state width="2494" height="397" key="GridCell.Tab.0.left" timestamp="1612133001908">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="397" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612133001908" />
+    <state width="2494" height="397" key="GridCell.Tab.0.right" timestamp="1612133001908">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="397" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612133001908" />
+    <state width="2494" height="458" key="GridCell.Tab.1.bottom" timestamp="1612133001900">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612133001900" />
+    <state width="2494" height="458" key="GridCell.Tab.1.center" timestamp="1612133001900">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612133001900" />
+    <state width="2494" height="458" key="GridCell.Tab.1.left" timestamp="1612133001900">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612133001900" />
+    <state width="2494" height="458" key="GridCell.Tab.1.right" timestamp="1612133001900">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612133001900" />
+  </component>
+</project>

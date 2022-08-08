@@ -1,0 +1,7 @@
+Pytanie 1
+
+Napisz klienta, który łaczy się z serwerem UDP działąjącym pod adresem 172.21.48.197:10005 i:
+- wysyła bufor bajtów napisu będącego pojenczą linią składającą się z 904915
+- odbiera jeden datagram z pojedynczą linią składającą się z liczby całkowitej (tzw. flagi).
+
+Wpisz otrzymaną flagę poniżej.

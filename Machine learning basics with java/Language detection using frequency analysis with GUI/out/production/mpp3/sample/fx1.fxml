@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<TabPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="800.0" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+  <tabs>
+    <Tab text="Trening+Test">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <ChoiceBox fx:id="choice1" layoutX="14.0" layoutY="14.0" prefWidth="150.0" />
+                  <TableView fx:id="wagi" layoutX="14.0" layoutY="60.0" prefHeight="682.0" prefWidth="234.0">
+                    <columns>
+                      <TableColumn fx:id="litera" prefWidth="75.0" text="Litera" />
+                      <TableColumn fx:id="waga" prefWidth="158.0" text="Waga" />
+                    </columns>
+                  </TableView>
+                  <TableView fx:id="matrix" layoutX="272.0" layoutY="60.0" prefHeight="200.0" prefWidth="314.0">
+                    <columns>
+                      <TableColumn fx:id="m1" prefWidth="112.333251953125" text="przypadki \ jako &gt;" />
+                      <TableColumn fx:id="m2" prefWidth="71.333251953125" text="pozytywne" />
+                        <TableColumn fx:id="m3" prefWidth="116.0" text="negatywne" />
+                    </columns>
+                  </TableView>
+                  <TableView fx:id="eval" layoutX="272.0" layoutY="286.0" prefHeight="200.0" prefWidth="200.0">
+                    <columns>
+                      <TableColumn fx:id="e1" prefWidth="75.0" text="Miara" />
+                      <TableColumn fx:id="e2" prefWidth="124.0" text="Wartosc" />
+                    </columns>
+                  </TableView>
+               </children></AnchorPane>
+      </content>
+    </Tab>
+      <Tab text="Text">
+         <content>
+            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <TextArea fx:id="textArea" layoutX="35.0" layoutY="43.0" prefHeight="541.0" prefWidth="200.0" promptText="Text" />
+                  <TableView fx:id="resultT" layoutX="337.0" layoutY="43.0" prefHeight="547.0" prefWidth="200.0">
+                    <columns>
+                      <TableColumn fx:id="r1" prefWidth="75.0" text="Perceptron" />
+                      <TableColumn fx:id="r2" prefWidth="75.0" text="Decyzja" />
+                    </columns>
+                  </TableView>
+                  <Button fx:id="button" layoutX="48.0" layoutY="644.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="175.0" text="Test" />
+                  <TextField fx:id="decision" editable="false" layoutX="337.0" layoutY="644.0" promptText="Decyzja" />
+                  <Label layoutX="34.0" layoutY="14.0" text="Text wlasny" />
+                  <Label layoutX="337.0" layoutY="618.0" text="Decyzja ostateczna" />
+               </children>
+            </AnchorPane>
+         </content>
+      </Tab>
+  </tabs>
+</TabPane>

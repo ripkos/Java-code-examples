@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c3be6ca-0f32-4492-a388-bd370f08b964" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="363" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kF14JNjZW5FUh15lev0V1IqcUb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="G:/CoolBees" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zad2" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="zad3" />
+      <recent name="zad1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main 2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="zad2.Main" />
+      <module name="UTP5_PM_S20865" />
+      <option name="PROGRAM_PARAMETERS" value="Warszawa 100 Kielce 200 Szczecin 300" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad3.Main" />
+      <module name="UTP5_PM_S20865" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.Main" />
+      <module name="UTP5_PM_S20865" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main 2" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main 2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c3be6ca-0f32-4492-a388-bd370f08b964" name="Default Changelist" comment="" />
+      <created>1605281332193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605281332193</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="329" width="1128" height="781" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605303924238">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="329" width="1128" height="781" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605303924238" />
+    <state x="999" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1605306347566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="999" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1605306347566" />
+    <state x="961" y="339" key="FileChooserDialogImpl" timestamp="1605557249129">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="961" y="339" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1605557249129" />
+    <state width="2494" height="458" key="GridCell.Tab.0.bottom" timestamp="1605309360102">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605309360102" />
+    <state width="2494" height="458" key="GridCell.Tab.0.center" timestamp="1605309360102">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605309360102" />
+    <state width="2494" height="458" key="GridCell.Tab.0.left" timestamp="1605309360102">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605309360102" />
+    <state width="2494" height="458" key="GridCell.Tab.0.right" timestamp="1605309360102">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605309360102" />
+    <state width="2494" height="458" key="GridCell.Tab.1.bottom" timestamp="1605309360103">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605309360103" />
+    <state width="2494" height="458" key="GridCell.Tab.1.center" timestamp="1605309360102">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605309360102" />
+    <state width="2494" height="458" key="GridCell.Tab.1.left" timestamp="1605309360102">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605309360102" />
+    <state width="2494" height="458" key="GridCell.Tab.1.right" timestamp="1605309360103">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="458" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605309360103" />
+    <state x="550" y="170" key="SettingsEditor" timestamp="1605308022963">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="550" y="170" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1605308022963" />
+    <state x="1469" y="439" key="com.intellij.ide.util.TipDialog" timestamp="1605557149322">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1469" y="439" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605557149322" />
+    <state x="379" y="112" key="new project wizard" timestamp="1605290032213">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="379" y="112" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1605290032213" />
+    <state x="904" y="182" key="refactoring.ChangeSignatureDialog" timestamp="1605286007476">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="904" y="182" key="refactoring.ChangeSignatureDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605286007476" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="fname.value" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UTP5_PM_S20865$Main.ic" NAME="Main Coverage Results" MODIFIED="1605303600619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>zad1.*</FILTER>
+    </SUITE>
+  </component>
+</project>

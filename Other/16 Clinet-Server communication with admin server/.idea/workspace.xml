@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03ecd5c1-bdce-4aea-b99d-99523c513f0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="363" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rwg8ftUXDgj5PHVdMA35y78BAd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TPO2_PM_S20865" />
+  </component>
+  <component name="RunManager" selected="Application.Client2">
+    <configuration name="Admin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.adm.Admin" />
+      <module name="TPO4_PM_S20865" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.adm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="zad1.client.Client" />
+      <module name="TPO4_PM_S20865" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.server.ServerStarter" />
+      <module name="TPO4_PM_S20865" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Admin" />
+      <item itemvalue="Application.Client2" />
+      <item itemvalue="Application.ServerStarter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerStarter" />
+        <item itemvalue="Application.Admin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03ecd5c1-bdce-4aea-b99d-99523c513f0b" name="Default Changelist" comment="" />
+      <created>1619892407573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619892407573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="961" y="296" key="FileChooserDialogImpl" timestamp="1629228960769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="961" y="296" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1629228960769" />
+    <state width="2494" height="432" key="GridCell.Tab.0.bottom" timestamp="1620730540314">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="432" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1620730540314" />
+    <state width="2494" height="432" key="GridCell.Tab.0.center" timestamp="1620730540314">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="432" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1620730540314" />
+    <state width="2494" height="432" key="GridCell.Tab.0.left" timestamp="1620730540314">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="432" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1620730540314" />
+    <state width="2494" height="432" key="GridCell.Tab.0.right" timestamp="1620730540314">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="432" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1620730540314" />
+    <state x="396" y="265" key="new project wizard" timestamp="1621446448511">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="396" y="265" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1621446448511" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TPO4_PM_S20865$Client.ic" NAME="Client Coverage Results" MODIFIED="1620077775050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>zad1.client.*</FILTER>
+    </SUITE>
+  </component>
+</project>

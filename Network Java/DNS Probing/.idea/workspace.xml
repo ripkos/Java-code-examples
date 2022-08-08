@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="809c72df-3ada-4e89-82c2-eb72e6a2d19e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nzCeCKD5KD9oCFPPlLfNbPTD0x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Study\SKJ\extra\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.dns1">
+    <configuration name="DnsClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DnsClient" />
+      <module name="extra" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dns1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dns1" />
+      <module name="extra" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.dns1" />
+        <item itemvalue="Application.DnsClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="809c72df-3ada-4e89-82c2-eb72e6a2d19e" name="Default Changelist" comment="" />
+      <created>1612383624662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612383624662</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2494" height="370" key="GridCell.Tab.0.bottom" timestamp="1612384501414">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="370" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612384501414" />
+    <state width="2494" height="370" key="GridCell.Tab.0.center" timestamp="1612384501414">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="370" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612384501414" />
+    <state width="2494" height="370" key="GridCell.Tab.0.left" timestamp="1612384501414">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="370" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612384501414" />
+    <state width="2494" height="370" key="GridCell.Tab.0.right" timestamp="1612384501414">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="370" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612384501414" />
+  </component>
+</project>

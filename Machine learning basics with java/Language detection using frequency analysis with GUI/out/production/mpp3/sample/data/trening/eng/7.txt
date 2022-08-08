@@ -1,0 +1,69 @@
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Electric multiple unit" – news · newspapers · books · scholar · JSTOR (December 2009) (Learn how and when to remove this template message)
+The prototype unit of JNR 201 series on public display at Harajuku Station in Tokyo, 13 May 1979. Next to it, a Yamanote Line's 103 series train can be seen passing through
+DART 8500 class commuter EMU at Howth Junction railway station
+A high-speed EMU CR400BF-G capable of up to 494 km/h (307 mph) operated by China Railway High-speed at Beijing Chaoyang railway station
+A CityElefant train about to arrive Ostrava hlavní nádraží, Czech Republic
+Electric train in Melbourne in Australia
+
+An electric multiple unit or EMU is a multiple-unit train consisting of self-propelled carriages using electricity as the motive power. An EMU requires no separate locomotive, as electric traction motors are incorporated within one or a number of the carriages. An EMU is usually formed of two or more semi-permanently coupled carriages, but electrically powered single-unit railcars are also generally classed as EMUs. The great majority of EMUs are passenger trains, but versions also exist for carrying mail.
+
+EMUs are popular on commuter and suburban rail networks around the world due to their fast acceleration and pollution-free operation.[1] Being quieter than diesel multiple units (DMUs) and locomotive-hauled trains, EMUs can operate later at night and more frequently without disturbing nearby residents. In addition, tunnel design for EMU trains is simpler as no provision is needed for exhausting fumes, although retrofitting existing limited-clearance tunnels to accommodate the extra equipment needed to transmit electric power to the train can be difficult.
+Contents
+
+    1 History
+    2 Types
+    3 As high speed trains
+    4 Fuel cell development
+    5 Comparison with locomotives
+    6 Around the world
+        6.1 Europe
+            6.1.1 Croatia
+    7 Gallery
+    8 See also
+    9 References
+
+History
+
+Multiple unit train control was first used in the 1890s.
+
+The Liverpool Overhead Railway opened in 1893 with two car electric multiple units,[2] controllers in cabs at both ends directly controlling the traction current to motors on both cars.[3]
+
+The multiple unit traction control system was developed by Frank Sprague and first applied and tested on the South Side Elevated Railroad (now part of the Chicago 'L') in 1897. In 1895, derived from his company's invention and production of direct current elevator control systems, Frank Sprague invented a multiple unit controller for electric train operation. This accelerated the construction of electric traction railways and trolley systems worldwide. Each car of the train has its own traction motors: by means of motor control relays in each car energized by train-line wires from the front car all of the traction motors in the train are controlled in unison.
+Types
+Metro-North Railroad M8 married pairs in Port Chester, New York
+A First ScotRail Class 380 EMU at Haymarket in Edinburgh, Scotland
+
+The cars that form a complete EMU set can usually be separated by function into four types: power car, motor car, driving car, and trailer car. Each car can have more than one function, such as a motor-driving car or power-driving car.
+
+    A power car carries the necessary equipment to draw power from the electrified infrastructure, such as pickup shoes for third rail systems and pantographs for overhead systems, and transformers.
+    Motor cars carry the traction motors to move the train, and are often combined with the power car to avoid high-voltage inter-car connections.
+    Driving cars are similar to a cab car, containing a driver's cab for controlling the train. An EMU will usually have two driving cars at its outer ends.
+    Trailer cars are any cars that carry little or no traction or power related equipment, and are similar to passenger cars in a locomotive-hauled train.
+
+On third rail systems, the outer vehicles usually carry the pick up shoes with the motor vehicles receiving the current via intra-unit connections.
+
+Many modern 2-car EMU sets are set up as twin or "married pair" units. While both units in a married pair are typically driving motors, the ancillary equipment (air compressor and tanks, batteries and charging equipment, traction power and control equipment, etc.) are shared between the two cars in the set. Since neither car can operate without its "partner", such sets are permanently coupled and can only be split at maintenance facilities. Advantages of married pair units include weight and cost savings over single-unit cars (due to halving the ancillary equipment required per set) while allowing all cars to be powered, unlike a motor-trailer combination. Each car has only one control cab, located at the outer end of the pair, saving space and expense over a cab at both ends of each car. Disadvantages include a loss of operational flexibility, as trains must be multiples of two cars, and a failure on a single car could force removing both it and its partner from service.
+As high speed trains
+
+Some of the more famous electric multiple units in the world are high-speed trains: the Italian Pendolino, Shinkansen in Japan, the China Railway High-speed in China, ICE 3 in Germany, and the British Rail class 395 Javelin. The retired New York–Washington Metroliner service, first operated by the Pennsylvania Railroad and later by Amtrak, also featured high-speed electric multiple-unit cars, known as the Budd Metroliner.
+Fuel cell development
+
+EMUs powered by fuel cells are under development. If successful, this would avoid the need for an overhead line or third rail. An example is Alstom’s hydrogen-powered Coradia iLint.[4] The term hydrail has been coined for hydrogen-powered rail vehicles.
+Comparison with locomotives
+
+EMUs, when compared with electric locomotives, offer:[5]
+
+    Higher acceleration, since there are more motors sharing the same load, more motors allows for a higher total motor power output
+    Braking, including Eddy current, rheostatic and/or regenerative braking on multiple axles at once, greatly reducing wear on brake parts (as the wear can be distributed among more brakes) and allowing for faster braking (lower/reduced braking distances)
+    Reduced axle loads, since the need for a heavy locomotive is eliminated; this in turn allows for simpler and cheaper structures that use less material (like bridges and viaducts) and lower structure maintenance costs
+    Reduced ground vibrations, due to the above
+    Lower adhesion coefficients for driving (powered) axles, due to lower weight on these axles; weight is not concentrated on a locomotive
+    A higher degree of redundancy - performance is only minimally affected following the failure of a single motor or brake
+    Higher seating capacity, since there is no locomotive; all cars can contain seats.
+
+While electric locomotives, when compared to EMUs, offer:
+
+    Less electrical equipment per train resulting in lower train manufacturing and maintenance costs
+    Easily allows for lower noise and vibration in passenger cars, since there are no motors or gearboxes on the bogies below the cars

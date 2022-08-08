@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c96026f1-3090-4e44-aba1-258dd172628c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1o1pJLIEkLRdKDaiRR55LEVxU8v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager" selected="Application.MainPurchase">
+    <configuration name="MainCalc" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="zad2.Main" />
+      <module name="UTP13_PM_S20865" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;12345 3 34135&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPurchase" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="zad1.Main" />
+      <module name="UTP13_PM_S20865" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainCalc" />
+      <item itemvalue="Application.MainPurchase" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c96026f1-3090-4e44-aba1-258dd172628c" name="Default Changelist" comment="" />
+      <created>1612463877457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612463877457</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="222" key="#Main" timestamp="1612470096386">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="880" y="222" key="#Main/0.0.2560.1400@0.0.2560.1400" timestamp="1612470096386" />
+    <state x="736" y="329" width="1128" height="781" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612468094066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="329" width="1128" height="781" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1612468094066" />
+    <state x="961" y="296" key="FileChooserDialogImpl" timestamp="1612470388725">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="961" y="296" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1612470388725" />
+    <state width="2494" height="370" key="GridCell.Tab.0.bottom" timestamp="1612470570786">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="370" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612470570786" />
+    <state width="2494" height="370" key="GridCell.Tab.0.center" timestamp="1612470570786">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="370" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612470570786" />
+    <state width="2494" height="370" key="GridCell.Tab.0.left" timestamp="1612470570786">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="370" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612470570786" />
+    <state width="2494" height="370" key="GridCell.Tab.0.right" timestamp="1612470570786">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2494" height="370" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612470570786" />
+  </component>
+</project>

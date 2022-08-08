@@ -1,0 +1,19 @@
+Pytanie 1
+
+1. Napisz serwer UDP mogący obsługiwać wielu klientów jednocześnie, który:
+- odbiera dowolny datagram
+- wysyła bufor bajtów napisu będącego pojenczą linią składającą się z numeru s Twojego indeksu (bez litery s)
+- wysyła bufor bajtów napisu będącego pojenczą linią składającą się z 133411
+- odbiera jeden datagram z pojedynczą linią składającą się z liczby całkowitej N
+- odbiera jeden datagram z pojedynczą linią X
+
+
+Uruchom serwer.
+
+2. Napisz klienta, który łaczy się z serwerem TCP działąjącym pod adresem 172.21.48.141:20001 i:
+- wysyła jedną linię skłądającą się z numeru s Twojego indeksu (bez litery s)
+- wysyła jedną linię składającą się z adresu IP i portu Twojego serwera UDP (w formacie ip:port)
+
+Uruchom klienta.
+
+Poniżej wpisz liczbę N otrzymaną od dowolnego klienta, którego X posiada podnapis "*FIN*"

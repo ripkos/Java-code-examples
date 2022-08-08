@@ -1,0 +1,33 @@
+<web-app>
+
+  <display-name>TPO zadanie 3</display-name>
+  <description>Desc</description>
+  <servlet>
+    <servlet-name>Controller</servlet-name>
+    <servlet-class>Controller</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Controller</servlet-name>
+    <url-pattern>/Controller</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>View</servlet-name>
+    <servlet-class>View</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>View</servlet-name>
+    <url-pattern>/View</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Model</servlet-name>
+    <servlet-class>Model</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Model</servlet-name>
+    <url-pattern>/Model</url-pattern>
+  </servlet-mapping>
+
+</web-app>
+

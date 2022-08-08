@@ -1,0 +1,92 @@
+/**
+ *
+ *  @author Poskrypko Maksym S20865
+ *
+ */
+
+package zad2;
+
+
+import java.io.*;
+import java.util.*;
+import java.util.function.*;
+
+public class Main {
+  public static void main(String[] args) throws IOException {
+    /*<--
+     *  definicja operacji w postaci lambda-wyrażeń:
+     *  - flines - zwraca listę wierszy z pliku tekstowego
+     *  - join - łączy napisy z listy (zwraca napis połączonych ze sobą elementów listy napisów)
+     *  - collectInts - zwraca listę liczb całkowitych zawartych w napisie
+     *  - sum - zwraca sumę elmentów listy liczb całkowitych
+     */
+    //FLINES
+    Function< String , List<String>>  flines = (CEF<String, List<String> >) fname ->  {
+      List<String> list = new ArrayList<>();
+
+        BufferedReader br = new BufferedReader(new FileReader(fname));
+
+        String line = br.readLine();
+        while (line!= null){
+          list.add(line);
+          line=br.readLine();
+        }
+
+      return list;
+    };
+    // join
+    Function< List<String>, String> join = a -> {
+      String napis="";
+      for (String str : a) {
+        napis=napis.concat(str);
+      }
+      return napis;
+    };
+    // collectInts
+    Function<String, List<Integer>> collectInts = a-> {
+      List<Integer> intlist = new ArrayList<>();
+      String str = a.replaceAll("[^\\d]", " ");
+      str = str.trim();
+      str = str.replaceAll(" +", " ");
+      String[] all = str.split(" ");
+      for(String s : all){
+        intlist.add(Integer.valueOf(s));
+      }
+      return intlist;
+    };
+    //
+    Function<List<Integer>, Integer> sum = a-> {
+      int suma=0;
+      for( int in : a){
+        suma+=in;
+      }
+      return suma;
+    };
+    //END
+
+    String fname = System.getProperty("user.home") + "/LamComFile.txt"; 
+    InputConverter<String> fileConv = new InputConverter<>(fname);
+    List<String> lines = fileConv.convertBy(flines);
+    String text = fileConv.convertBy(flines, join);
+    List<Integer> ints = fileConv.convertBy(flines, join, collectInts);
+    Integer sumints = fileConv.convertBy(flines, join, collectInts, sum);
+
+    System.out.println(lines);
+    System.out.println(text);
+    System.out.println(ints);
+    System.out.println(sumints);
+
+    List<String> arglist = Arrays.asList(args);
+    InputConverter<List<String>> slistConv = new InputConverter<>(arglist);  
+    sumints = slistConv.convertBy(join, collectInts, sum);
+    System.out.println(sumints);
+
+    // Zadania badawcze:
+    // Operacja flines zawiera odczyt pliku, zatem może powstac wyjątek IOException
+    // Wymagane jest, aby tę operację zdefiniowac jako lambda-wyrażenie
+    // Ale z lambda wyrażeń nie możemy przekazywac obsługi wyjatków do otaczającego bloku
+    // I wobec tego musimy pisać w definicji flines try { } catch { }
+    // Jak spowodować, aby nie było to konieczne i w przypadku powstania wyjątku IOException
+    // zadziałała klauzula throws metody main
+  }
+}

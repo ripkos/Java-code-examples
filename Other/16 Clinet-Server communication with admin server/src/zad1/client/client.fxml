@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox spacing="5.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="zad1.client.ClientController">
+   <children>
+      <HBox prefHeight="422.0" prefWidth="888.0" spacing="10.0">
+         <children>
+            <VBox>
+               <children>
+                  <Label text="Tematy" />
+                  <ListView fx:id="topics" prefHeight="400.0" prefWidth="394.0" />
+               </children>
+            </VBox>
+            <VBox prefHeight="417.0" prefWidth="632.0">
+               <children>
+                  <Label text="Wiadomosci" />
+                  <ListView fx:id="msgs" />
+               </children>
+            </VBox>
+            <VBox prefHeight="216.0" prefWidth="245.0" />
+         </children>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <padding>
+            <Insets left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </HBox>
+      <HBox prefHeight="427.0" prefWidth="727.0" spacing="10.0">
+         <children>
+            <VBox>
+               <children>
+                  <Label text="Wiadomosci systemowe" />
+                  <ListView fx:id="sysmsg" />
+               </children>
+            </VBox>
+            <VBox spacing="5.0">
+               <children>
+                  <Label text="Status serwera" />
+                  <TextArea fx:id="serverText" editable="false" prefHeight="200.0" prefWidth="200.0" text="Aplikacja offline" />
+               </children>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+            </VBox>
+         </children>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+         <VBox.margin>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </VBox.margin>
+      </HBox>
+   </children>
+</VBox>
